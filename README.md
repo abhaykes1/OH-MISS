@@ -49,7 +49,7 @@
 
 # Poster 
 .
-    <img src="images/poster.jpg" width="600">
+    <img src="images/Poster.jpg" width="600">
 
 
 * live data visualisation
